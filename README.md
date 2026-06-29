@@ -135,36 +135,46 @@ Focus promotional offers on **11–20 minute casual rides**, representing the la
 # 📂 Repository Structure
 
 ```text
-data/
+01_data/
 │── sample_data.csv
 │── sample_cleaned_data.csv
 │── DATA_SOURCE.md
 │── data_dictionary.md
 
-sql/
+02_sql/
 │── 01_combine_months.sql
 │── 02_transform.sql
 │── 03_clean.sql
 │── 04_analysis_queries.sql
 │── 05_dashboard_export.sql
 │── 06_python_sample.sql
+│── sql_documentation.docx
+│── sql_documentation.pdf
 
-python/
+03_python/
+│── visuals/
 │── cyclistic_analysis.ipynb
-│── cyclistic_analysis.py
+│── python_documentation.docx
+│── python_documentation.pdf
 │── requirements.txt
 
-tableau/
+04_tableau/
 │── Cyclistic Rider Behavior & Membership Conversion Analysis.twbx
+│── dashboard_1_executive_overview.png
+│── dashboard_2_rider_behavior.png
+│── dashboard_3_conversion_opportunities.png
+│── tableau_public_link.md
 
-presentation/
-│── Cyclistic_Case_Study.pdf
+05_presentation/
+│── case_study_brief_README.md
+│── case_study_report.docx
+│── case_study_report.pdf
+│── key_findings.md
+│── work_flow.png
 
-images/
-│── workflow.png
-│── dashboard1.png
-│── dashboard2.png
-│── dashboard3.png
+README.md
+LICENSE
+.gitignore
 ```
 
 ---
