@@ -205,7 +205,7 @@ CYCLISTIC-BIKE-SHARE-Rider-Behaviour-Conversion-Analysis/
 │   └── sql_documentation.pdf
 │
 ├── 03_python
-│   ├── visuals/
+│   ├── visuals
 │   ├── cyclistic_analysis.ipynb
 │   ├── python_documentation.docx
 │   ├── python_documentation.pdf
