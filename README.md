@@ -194,12 +194,13 @@ CYCLISTIC-BIKE-SHARE-Rider-Behaviour-Conversion-Analysis/
 │   └── data_dictionary.md
 │
 ├── 02_sql
-│   ├── 01_combine_months.sql
-│   ├── 02_transform.sql
-│   ├── 03_clean.sql
-│   ├── 04_analysis_queries.sql
-│   ├── 05_dashboard_export.sql
-│   ├── 06_python_sample.sql
+│   ├── sql_queries
+│   │   ├── 01_combine_months.sql
+│   │   ├── 02_transform.sql
+│   │   ├── 03_clean.sql
+│   │   ├── 04_analysis_queries.sql
+│   │   ├── 05_dashboard_export.sql
+│   │   └── 06_python_sample.sql
 │   ├── sql_documentation.docx
 │   └── sql_documentation.pdf
 │
